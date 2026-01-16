@@ -6,6 +6,9 @@ echo.
 echo This is running from Windows
 echo.
 echo Auto trigger test from Jenkins
+echo.
+echo now the correct testing is done
+echo.
 echo testing new auto trigger
 echo.
 echo Jenkins testing
